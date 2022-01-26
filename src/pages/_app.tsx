@@ -2,7 +2,12 @@ import { AppProps } from 'next/app'
 
 import '@fontsource/inter/300.css'
 import '@fontsource/inter/400.css'
+import '@fontsource/inter/500.css'
 import '@fontsource/inter/600.css'
+
+import '@fontsource/source-sans-pro/300.css'
+import '@fontsource/source-sans-pro/400.css'
+import '@fontsource/source-sans-pro/600.css'
 
 import '@fontsource/poppins/300.css'
 import '@fontsource/poppins/400.css'
