@@ -1,0 +1,43 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Polite Investor",
+    "home_page_url": "https://www.politeinvestor.com",
+    "feed_url": "https://www.politeinvestor.com/feed.json",
+    "items": [
+        {
+            "id": "https://www.politeinvestor.com/articles/2022/01/19/fees-fees-millions-of-fees",
+            "url": "https://www.politeinvestor.com/articles/2022/01/19/fees-fees-millions-of-fees",
+            "title": "Fees! Fees! Millions of Fees!",
+            "summary": "Fee-ndish Fees",
+            "date_modified": "2022-01-19T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.politeinvestor.com/articles/2022/01/16/2022-retirement-plan-contribution-limits",
+            "url": "https://www.politeinvestor.com/articles/2022/01/16/2022-retirement-plan-contribution-limits",
+            "title": "2022 Retirement Plan Contribution Limits",
+            "summary": "How much you can invest in 2022",
+            "date_modified": "2022-01-16T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.politeinvestor.com/articles/2021/12/09/the-vanilla-investor",
+            "url": "https://www.politeinvestor.com/articles/2021/12/09/the-vanilla-investor",
+            "title": "The Vanilla Investor",
+            "summary": "You get what you don't pay for",
+            "date_modified": "2021-12-09T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.politeinvestor.com/articles/2021/12/07/full-fat-retirement",
+            "url": "https://www.politeinvestor.com/articles/2021/12/07/full-fat-retirement",
+            "title": "A Full Fat Retirement",
+            "summary": "As with milk fat, know about the 4% rule",
+            "date_modified": "2021-12-07T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.politeinvestor.com/articles/2021/12/05/first-post",
+            "url": "https://www.politeinvestor.com/articles/2021/12/05/first-post",
+            "title": "First Post! Welcome",
+            "summary": "Welcome to The Polite Investor",
+            "date_modified": "2021-12-05T00:00:00.000Z"
+        }
+    ]
+}

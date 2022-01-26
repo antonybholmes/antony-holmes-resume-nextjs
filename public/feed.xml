@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Polite Investor</title>
+        <link>https://www.politeinvestor.com</link>
+        <description></description>
+        <lastBuildDate>Wed, 26 Jan 2022 02:33:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Feed for Node.js</generator>
+        <copyright>All rights reserved 2022, Polite Investor</copyright>
+        <item>
+            <title><![CDATA[Fees! Fees! Millions of Fees!]]></title>
+            <link>https://www.politeinvestor.com/articles/2022/01/19/fees-fees-millions-of-fees</link>
+            <guid>https://www.politeinvestor.com/articles/2022/01/19/fees-fees-millions-of-fees</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Fee-ndish Fees]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2022 Retirement Plan Contribution Limits]]></title>
+            <link>https://www.politeinvestor.com/articles/2022/01/16/2022-retirement-plan-contribution-limits</link>
+            <guid>https://www.politeinvestor.com/articles/2022/01/16/2022-retirement-plan-contribution-limits</guid>
+            <pubDate>Sun, 16 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[How much you can invest in 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The Vanilla Investor]]></title>
+            <link>https://www.politeinvestor.com/articles/2021/12/09/the-vanilla-investor</link>
+            <guid>https://www.politeinvestor.com/articles/2021/12/09/the-vanilla-investor</guid>
+            <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[You get what you don't pay for]]></description>
+        </item>
+        <item>
+            <title><![CDATA[A Full Fat Retirement]]></title>
+            <link>https://www.politeinvestor.com/articles/2021/12/07/full-fat-retirement</link>
+            <guid>https://www.politeinvestor.com/articles/2021/12/07/full-fat-retirement</guid>
+            <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[As with milk fat, know about the 4% rule]]></description>
+        </item>
+        <item>
+            <title><![CDATA[First Post! Welcome]]></title>
+            <link>https://www.politeinvestor.com/articles/2021/12/05/first-post</link>
+            <guid>https://www.politeinvestor.com/articles/2021/12/05/first-post</guid>
+            <pubDate>Sun, 05 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to The Polite Investor]]></description>
+        </item>
+    </channel>
+</rss>

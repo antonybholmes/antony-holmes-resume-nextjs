@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210.34467mm"
+   height="31.599691mm"
+   viewBox="0 0 210.34467 31.599691"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="logo_original.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="119.14657"
+     inkscape:cy="62.594471"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3793"
+       originx="11.948237"
+       originy="-4.8028129" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-28.306226,-45.841541)">
+    <g
+       id="g69"
+       transform="translate(70.681547,84.288691)">
+      <path
+         id="path4604"
+         d="m -25.626598,-30.747659 c -1.102475,-0.866141 -2.485087,-1.37953 -3.988162,-1.37953 -3.537762,0 -6.418249,2.853836 -6.507274,6.410612 -3.652987,1.384798 -6.253287,4.949457 -6.253287,9.12492 0,4.933667 3.6268,9.0117135 8.332462,9.6540852 v 0.090113 h 33.33508412 v -0.015238 C 3.9402816,-7.1364755 7.6246805,-11.032892 7.6246805,-15.800692 c 0,-4.599319 -3.4277682,-8.387774 -7.84014791,-8.895883 0.017775,-0.27911 0.029188,-0.563423 0.029188,-0.847737 0,-7.126702 -5.94688929,-12.902838 -13.28166359,-12.902838 -5.428405,0 -10.097416,3.1645 -12.158266,7.700635"
+         inkscape:connector-curvature="0"
+         style="fill:#5f8dd3;stroke-width:2.62564993" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot12"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,42.674585,4.5698711)"><flowRegion
+         id="flowRegion14"
+         style="fill:#ffffff"><rect
+           id="rect16"
+           width="969.16199"
+           height="205.59055"
+           x="170.71428"
+           y="178.23396"
+           style="fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara18"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#000000">POLITE INVESTOR</flowPara></flowRoot>  </g>
+</svg>

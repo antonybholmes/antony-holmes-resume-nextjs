@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Investing",
+    "books": [
+      {
+        "name": "The Little Book of Common Sense Investing",
+        "author": "John C. Bogle",
+        "url": "https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509",
+        "description": "The wisdom of Jack Bogle, founder of Vanguard."
+      },
+      {
+        "name": "The Four Pillars of Investing: Lessons for Building a Winning Portfolio",
+        "author": "William J. Bernstein",
+        "url": "https://www.amazon.com/Four-Pillars-Investing-Building-Portfolio/dp/0071385290",
+        "description": "Covers the principals of index based investing. A classic."
+      }
+    ]
+  }
+]

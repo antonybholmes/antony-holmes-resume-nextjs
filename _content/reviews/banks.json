@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Online Banks",
+    "description": "",
+    "cards": [
+      {
+        "name": "Capital One 360",
+        "url": "https://www.capitalone.com/",
+        "description": "I use this for my joint account. Easy to use and with a great app.",
+        "rating": 4.5,
+        "fee": "$0",
+        "pros": [
+          "Easy to setup multiple accounts.",
+          "Quick deposit, often same day."
+        ],
+        "cons": [
+          "Low interest rates on CDs."
+        ]
+      },
+      {
+        "name": "Ally",
+        "url": "https://www.ally.com",
+        "description": "Well regarded online bank.",
+        "rating": 4.5,
+        "fee": "$0",
+        "pros": ["Usually has some of the best CD rates."],
+        "cons": ["Website is not that user friendly.", "Still relies on slow, outdated paper forms to accomplish tasks."]
+      }
+    ]
+  },
+  {
+    "name": "Brick and Mortar",
+    "description": "",
+    "cards": [
+      {
+        "name": "Bank Of America",
+        "url": "https://www.bankofamerica.com",
+        "description": "My primary brick and mortar bank.",
+        "rating": 4.0,
+        "fee": "$0",
+        "pros": [
+          "Lots of branches.",
+          "Good cashback rates on credit cards if you have Platinum status.",
+          "Allows investments to count towards Platinum status minimums."
+        ],
+        "cons": [
+          "High fees for low balance accounts."
+        ]
+      }
+    ]
+  }
+]

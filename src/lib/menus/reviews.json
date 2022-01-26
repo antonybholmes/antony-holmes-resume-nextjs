@@ -1,0 +1,8 @@
+[
+  { "name": "Brokerages", "url": "/reviews/brokerages" },
+  { "name": "Portfolios", "url": "/reviews/portfolios" },
+  { "name": "Bank Accounts", "url": "/reviews/banks" },
+  { "name": "Credit Cards", "url": "/reviews/credit-cards" },
+  { "name": "Books", "url": "/reviews/books" },
+  { "name": "Websites", "url": "/reviews/websites" }
+]

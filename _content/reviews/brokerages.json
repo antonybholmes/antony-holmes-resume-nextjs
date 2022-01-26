@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Fidelity",
+    "url": "https://www.fidelity.com/",
+    "description": "Excellent low cost brokerage offering investing and banking services. Currently where I do most of my investing.",
+    "rating": 4.5,
+    "pros": [
+      "Buy any share/ETF in fractional amounts.",
+      "Early deposit of direct deposits.",
+      "Unlimited 2% cash back credit card.",
+      "Cashback automatically deposited into Fidelity account."
+    ],
+    "cons": ["App and website are a bit outdated."]
+  },
+  {
+    "name": "Schwab",
+    "url": "https://www.schwab.com",
+    "description": "Low cost brokerage and banking services.",
+    "rating": 4.5,
+    "pros": [
+      "$0 trading for stocks and ETFs",
+      "Unlimited ATM fee rebates",
+      "Cashback automatically deposited into Fidelity account."
+    ],
+    "cons": [
+      "Doesn't support fractional shares.",
+      "Can only transfer money between investment and checking accounts during business hours of 7am-7pm."
+    ]
+  },
+  {
+    "name": "Vanguard",
+    "url": "https://www.vanguard.com",
+    "description": "One of the oldest fund providers who pioneering index based investing. Many Bogleheads swear by it, though I find its customer services and website to be patchy.",
+    "rating": 4.0,
+    "pros": [
+      "Extremely cheap Funds and ETFs",
+      "$0 trading for stocks and ETFs.",
+      "Good for managing corporation retirement plans."
+    ],
+    "cons": ["Variable to poor customer service."]
+  },
+  {
+    "name": "Merrill Edge",
+    "url": "https://www.merrilledge.com",
+    "description": "Self directed brokerage from Bank of America.",
+    "rating": 4.0,
+    "pros": [
+      "$0 trading for stocks and ETFs if have a large enough balance.",
+      "Can be used to maintain Platinum status at Bank of America without having a large cash balance."
+    ],
+    "cons": ["Doesn't support fractional shares."]
+  }
+]
